@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Requests",
+    "\\Requests\\ShelfRequests",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Services\\ShelfService.cs",
+  "PreviewInSolutionExplorer": false
+}
